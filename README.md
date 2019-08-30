@@ -1,0 +1,2 @@
+# cnmfps
+Pan-sharpening algorithm for processing Nano-IR data. Developed by Nick Borodinov. Please cite as Application of pan-sharpening algorithm for correlative multimodal imaging using AFM-IR Nikolay Borodinov, Natasha Bilkey, Marcus Foston, Anton V. Ievlev, Alex Belianinov, Stephen Jesse, Rama K. Vasudevan, Sergei V. Kalinin &amp; Olga S. Ovchinnikova npj Computational Materialsvolume 5, Article number: 49 (2019 
